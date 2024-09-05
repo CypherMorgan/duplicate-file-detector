@@ -25,7 +25,7 @@ This Python script helps you find and manage duplicate files across multiple dir
 Clone the repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/yourusername/duplicate-file-detector.git
+git clone https://github.com/CypherMorgan/duplicate-file-detector.git
 cd duplicate-file-detector
 ```
 
