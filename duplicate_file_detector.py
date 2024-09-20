@@ -69,10 +69,10 @@ def handle_duplicates(duplicates):
 
 if __name__ == "__main__":
     # Specify directories to search
-    directories = ["D:\\", "E:\\"]  # Add or modify drive letters
+    directories = ["C:\\", "D:\\"]  # Add or modify drive letters
 
     # Specify folders to exclude
-    exclude_folders = ["D:\\GTA V", "E:\\Riot Games", "E:\\Red Dead Redemption 2", "E:\\Music", "E:\\server stuffs", "E:\\idk\\CypMenu", "E:\\Adobe Premiere Pro 2024", "E:\\editing shiittt\\3ds", "E:\\editing shiittt\\ps"]  # Modify as needed
+    exclude_folders = [  "E:\\Music", "E:\\server stuffs"]  # Modify as needed
 
     # Specify extensions to skip
     skip_extensions = {".tmp", ".log", ".bak", ".dll", ".exe", ".sys"}  # Add or modify extensions to skip
